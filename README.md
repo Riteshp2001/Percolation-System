@@ -27,3 +27,5 @@ We model a percolation system using an n-by-n grid of sites. Each site is either
 -> one of example of how the percolation system visualization looks like if the system percolates is:
 
 [![mutt dark](https://github.com/Riteshp2001/Percolation-System/blob/main/Test_Data/sedgewick60.png)](https://github.com/Riteshp2001/Percolation-System/blob/main/Test_Data/sedgewick60.png)
+
+**Be sure to test out other file data :)**
