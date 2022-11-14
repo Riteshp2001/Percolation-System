@@ -7,6 +7,7 @@ Basically it's an extended version of Union-Find algorithm in which we estimate 
 
 **Write a program to estimate the value of the percolation threshold via Monte Carlo simulation.**
 
+download the algs4.jar file from repo and install it into your desired compiler.
 To access a class in algs4.jar, you need an import statement, such as the ones below:
 
 import edu.princeton.cs.algs4.StdRandom.
