@@ -1,6 +1,6 @@
 # Percolation-System
 This is the visualization tool in java-programming language to estimate the value of the percolation threshold via Monte Carlo simulation. 
-All thanks to sir sedgewick for creating this awesome course project on coursera [ALGORITHMS](https://in.coursera.org/learn/algorithms-part1).
+All thanks to sir Sedgewick and sir Kevin Wyane for creating this awesome course project on coursera [ALGORITHMS](https://in.coursera.org/learn/algorithms-part1).
 Basically it's an extended version of Union-Find algorithm in which we estimate the threshold of system when it percolates (in short when the upper bound interacts with the lower bound of the Matrix )
 
 # Problem Statement
