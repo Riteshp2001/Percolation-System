@@ -10,8 +10,11 @@ Basically it's an extended version of Union-Find algorithm in which we estimate 
 To access a class in algs4.jar, you need an import statement, such as the ones below:
 
 import edu.princeton.cs.algs4.StdRandom.
+
 import edu.princeton.cs.algs4.StdStats.
+
 import edu.princeton.cs.algs4.WeightedQuickUnionUF.
+
 Note that your code must be in the default package; if you use a package statement, the autograder will not be able to assess your work.
 
 **Percolation**. 
