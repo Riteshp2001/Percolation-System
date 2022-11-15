@@ -28,6 +28,14 @@ We model a percolation system using an n-by-n grid of sites. Each site is either
 
 [![mutt dark](https://github.com/Riteshp2001/Percolation-System/blob/main/Test_Data/sedgewick60.png)](https://github.com/Riteshp2001/Percolation-System/blob/main/Test_Data/sedgewick60.png)
 
-[![IMAGE_ALT](https://youtu.be/GNBNFPVjPA4)](https://youtu.be/GNBNFPVjPA4)
+<iframe
+    width="640"
+    height="480"
+    src="https://youtu.be/GNBNFPVjPA4"
+    frameborder="0"
+    allow="autoplay; encrypted-media"
+    allowfullscreen
+>
+</iframe>
 
 **Be sure to test out other file data :)**
