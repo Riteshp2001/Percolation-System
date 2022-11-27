@@ -24,7 +24,9 @@ Given a composite systems comprised of randomly distributed insulating and metal
 **The Model.**
 We model a percolation system using an n-by-n grid of sites. Each site is either open or blocked. A full site is an open site that can be connected to an open site in the top row via a chain of neighboring (left, right, up, down) open sites. We say the system percolates if there is a full site in the bottom row. In other words, a system percolates if we fill all open sites connected to the top row and that process fills some open site on the bottom row. (For the insulating/metallic materials example, the open sites correspond to metallic materials, so that a system that percolates has a metallic path from top to bottom, with full sites conducting. For the porous substance example, the open sites correspond to empty space through which water might flow, so that a system that percolates lets water fill open sites, flowing from top to bottom.)
 
-#Youtube Link
+# Youtube Link
+
+Click on the image to play demonstartion video.
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/GNBNFPVjPA4/0.jpg)](http://www.youtube.com/watch?v=GNBNFPVjPA4 "Percolation System")
 
