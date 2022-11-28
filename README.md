@@ -26,7 +26,7 @@ We model a percolation system using an n-by-n grid of sites. Each site is either
 
 # Youtube Link
 
-Click on the image to play demonstartion video.
+Click on the image to play demonstration video.
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/GNBNFPVjPA4/0.jpg)](http://www.youtube.com/watch?v=GNBNFPVjPA4 "Percolation System")
 
